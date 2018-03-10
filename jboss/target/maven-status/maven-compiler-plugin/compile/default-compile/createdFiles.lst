@@ -1,0 +1,10 @@
+br\com\inmetrics\connections\ConnectionControllerPort.class
+br\com\inmetrics\jboss\cli\Deployment.class
+br\com\inmetrics\connections\ConnectionHandler.class
+br\com\inmetrics\jboss\cli\ServerInformation.class
+br\com\inmetrics\connections\CheckConnection.class
+br\com\inmetrics\connections\ConnectionControllerPortUsernamePassword.class
+br\com\inmetrics\jboss\cli\CLI.class
+br\com\inmetrics\connections\Connection.class
+br\com\inmetrics\jboss\program\App.class
+br\com\inmetrics\jboss\cli\CLI$Result.class
